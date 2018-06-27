@@ -16,6 +16,8 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
 ## Temario 
 <img width="300" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
 
+**Duración: 24hrs**
+
 1. Introducción a la programación
     * Programación y Aplicaciones
     * Lenguajes
