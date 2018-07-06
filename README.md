@@ -24,6 +24,7 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
     * ¿Por qué Python?
 2. Objetos dentro de Python
     * *Strings*, *Floats* & *Integers*
+    * Variables
     * Listas y Tuples
     * Diccionarios y Sets
 3. Control Flow
