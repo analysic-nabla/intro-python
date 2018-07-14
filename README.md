@@ -50,6 +50,7 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
     * `os`
 7. Usos Avanzados
     * Funciones Lambda
+    * Map, Filter, Reduce
     * List Comprehensions
 8. File I/O
     * `open`
