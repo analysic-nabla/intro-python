@@ -29,16 +29,14 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
 2. Objetos dentro de Python
     * *Strings*, *Floats* & *Integers*
     * Variables
-    * Listas y Tuples
-    * Diccionarios y Sets
+    * Listas y *Tuples*
+    * Diccionarios y *Sets*
 3. Control Flow
     * Booleanos
-    * If
-    * Else
-    * Else If
+    * `if`, `else`, `elif`
 4. Ciclos
-    * *For*
-    * *While*
+    * `for`
+    * `while`
 5. Funciones
     * Motivación
     * Parámetros
