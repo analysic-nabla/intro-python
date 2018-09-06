@@ -43,29 +43,29 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
     * Motivación
     * Parámetros
     * `return`
-6. Librería Estándard
-    * `datetime`
-    * `collections`
-    * `re`
-    * `os`
-7. Usos Avanzados
-    * Funciones Lambda
-    * Map, Filter, Reduce
-    * List Comprehensions
-8. File I/O
+6. File I/O
     * `open`
     * `with`
     * `json`
     * `csv`
-10. Python Científico
+7. Librería Estándard
+    * `datetime`
+    * `collections`
+    * `re`
+    * `os`
+8. Usos Avanzados
+    * Funciones Lambda
+    * Map, Filter, Reduce
+    * List Comprehensions
+9. Python Científico
     * `numpy`: arreglos matriciales
     * `matplotlib`: gráficas
     * `SciPy`: Herramientas científicas
-11. Análisis de datos en Pandas
+10. Análisis de datos en Pandas
     * `pandas.Series`
     * `pandas.DataFrame`
     * Manipulación y filtro de datos
-12. Aplicaciones
+11. Aplicaciones
     * Manipulación de archivos
     * Finanzas
     * Análisis de texto
