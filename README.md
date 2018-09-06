@@ -33,7 +33,9 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
     * Diccionarios y *Sets*
 3. Control Flow
     * Booleanos
-    * `if`, `else`, `elif`
+    * `if`
+    * `else`
+    * `elif`
 4. Ciclos
     * `for`
     * `while`
