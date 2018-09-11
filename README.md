@@ -57,16 +57,3 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
     * Funciones Lambda
     * Map, Filter, Reduce
     * List Comprehensions
-9. Python Científico
-    * `numpy`: arreglos matriciales
-    * `matplotlib`: gráficas
-    * `SciPy`: Herramientas científicas
-10. Análisis de datos en Pandas
-    * `pandas.Series`
-    * `pandas.DataFrame`
-    * Manipulación y filtro de datos
-11. Aplicaciones
-    * Manipulación de archivos
-    * Finanzas
-    * Análisis de texto
-    * Machine Learning
