@@ -17,6 +17,7 @@ El curso no asume experiencia previa a la programación y está enfocado a estud
 * Al momento de inscripción, Analysic Nabla compartirá la configuración inicial necesaria para el desarrollo del curso.
 * Este curso brinda las herramientas necesarias para preparar al alumno a aplicaciones avanzadas como redes neuronales, modelos de predicción y ciencia de datos (curso impartido por **Analysic Nabla**)
 
+
 ## Temario 
 <img width="300" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"/>
 
