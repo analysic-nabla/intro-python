@@ -1,8 +1,5 @@
 # Introducción a la Programación en Python
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/analysic-nabla/intro-python/master)  
-### Fechas: 28 de septiembre, 5, 12 y 19 de octubre
-#### 9:00hrs a 13:00hrs y de 15:00hrs a 17:00hrs
-Precio por persona (IVA incluido): MX $15,000.00  
 **Informes a learning@analysic.com**
 
 ![](https://avatars0.githubusercontent.com/u/40369113?s=400&u=c967732f5ac2ebb5ba45840ed884c34c8cbbb3df&v=4)
